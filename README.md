@@ -1,7 +1,7 @@
 # ML-Price-Optimization
 ProjectPro-inspired: Retail price optimization using regression trees. Analyzing restaurant sales data, applying OLS and price elasticity to set ideal prices, enhancing profitability.
 
-#Data
+# Data
 
 Dynamic Pricing Dataset
 The data is contained in three CSV files.
@@ -18,4 +18,5 @@ The data is contained in three CSV files.
 
 >> Columns: Date, Year, Holiday, Weekend, School Break, Temperature, Outdoor
 
+# How it works
 The code initiates an exploratory analysis for each CSV file, collating them for subsequent in-depth examination. Upon consolidation, a granular assessment ensues, focusing on each menu item's pricing dynamics. Regression trees and Ordinary Least Squares (OLS) regression come into play to meticulously gauge the price elasticity of each product. This multifaceted analysis equips us with valuable insights into how price changes impact demand, facilitating strategic decision-making to optimize menu pricing effectively.
